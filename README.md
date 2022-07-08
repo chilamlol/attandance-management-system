@@ -11,3 +11,19 @@ There is different function designed for different user such as: <br />
 ## Run using XAMPP
 * Import the database
 * Place inti into hotdocs
+
+<br />
+
+### User Interface
+**Landing Page**
+![alt text](https://github.com/chilamlol/attandance-management-system/blob/main/images/landing.png)
+
+<br />
+
+**Manage listing**
+![alt text](https://github.com/chilamlol/attandance-management-system/blob/main/images/manageStudent.png)
+
+<br />
+
+**Dashboard**
+![alt text](https://github.com/chilamlol/attandance-management-system/blob/main/images/dashboard.png)
