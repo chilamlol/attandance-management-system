@@ -7,3 +7,7 @@ There is different function designed for different user such as: <br />
 **Student**: View own attendance <br />
 **Parents**: Monitor their children's attendance <br />
 **Admin**: Manage everything <br />
+
+## Run using XAMPP
+* Import the database
+* Place inti into hotdocs
